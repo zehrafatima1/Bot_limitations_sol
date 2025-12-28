@@ -26,10 +26,10 @@ A research Proof-of-Concept addressing critical limitations in the Buffer of Tho
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/quality-aware-bot.git
-cd quality-aware-bot
+cd BoT_limitations-solution
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run demonstration
-python quality_aware_bot.py
+python bot_main.py
